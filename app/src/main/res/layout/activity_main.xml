@@ -29,7 +29,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:scaleType="centerCrop"
-            app:srcCompat="@drawable/music_instruments" />
+            app:srcCompat="@drawable/music_shop" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -38,7 +38,7 @@
             android:fontFamily="@font/aclonica"
             android:rotation="-30"
             android:text="Sale -30%"
-            android:textColor="#F50228"
+            android:textColor="@android:color/white"
             android:textSize="30sp" />
     </RelativeLayout>
 
